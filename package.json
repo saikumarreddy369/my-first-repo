@@ -20,5 +20,8 @@
     "url": "https://github.com/saikumarreddy369/my-first-repo/issues"
   },
   "homepage": "https://github.com/saikumarreddy369/my-first-repo#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
